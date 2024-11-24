@@ -11,45 +11,25 @@ author_profile: true
 
 {% include base_path %}
 
-<style>
-  .publication-list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  .publication-item {
-    flex: 1 1 calc(50% - 20px); /* Adjusts the width of each item */
-    margin: 10px;
-  }
-</style>
-
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  <div class="publication-list">
-    {% for category in site.publication_category  %}
-      {% assign title_shown = false %}
-      {% for post in site.publications reversed %}
-        {% if post.category != category[0] %}
-          {% continue %}
-        {% endif %}
-        {% unless title_shown %}
-          <h2>{{ category[1].title }}</h2><hr />
-          {% assign title_shown = true %}
-        {% endunless %}
-        <div class="publication-item">
-          {% include archive-single.html %}
-        </div>
-      {% endfor %}
-    {% endfor %}
-  </div>
-{% else %}
-  <div class="publication-list">
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
     {% for post in site.publications reversed %}
-      <div class="publication-item">
-        {% include archive-single.html %}
-      </div>
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
     {% endfor %}
-  </div>
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endif %}
 
 
