@@ -19,8 +19,6 @@ author_profile: true
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
-      <h2 style="width: 100%;">{{ category[1].title }}</h2><hr />
-      {% include archive-single.html %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
