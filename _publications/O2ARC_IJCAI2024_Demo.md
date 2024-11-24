@@ -1,9 +1,8 @@
 ---
-title: "O2ARC: Open-World Abductive Reasoning with Chain-of-Thought"
+title: "O2ARC V3"
 collection: publications
 category: papers
 permalink: /O2ARC_IJCAI2024_Demo
-excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-08-17
 venue: 'IJCAI 2024'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
@@ -11,4 +10,4 @@ citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub J
 ---
 
 ![Illustration of ARC](/images/500x300.png){: .align-right width="200px"}
-O2ARC: Open-World Abductive Reasoning with Chain-of-Thought
+O2ARC: version3
