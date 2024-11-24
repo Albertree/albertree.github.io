@@ -1,6 +1,6 @@
 ---
 title: "MC-LARC: Multi-Agent Abductive Reasoning for Logical Reasoning"
-collection: papers
+collection: publications
 category: papers
 permalink: /MC-LARC_KSC2023
 date: 2024-02-17
