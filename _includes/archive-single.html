@@ -30,10 +30,14 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="paperurl"></i><span class="sr-only">Paper</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="paperurl">{{ title }}aaaaaa</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="paperurl">{{ title }}</a>
       {% endif %}
     </h2>
     
+    {% if post.thumbnail   %}
+      <img src="{{ post.thumbnail }}" alt="thumbnail" style="width: 200px; height: auto; float: right;">
+    {% endif %}
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
