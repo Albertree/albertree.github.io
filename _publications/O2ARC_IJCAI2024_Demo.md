@@ -1,15 +1,15 @@
 ---
-title: "Reasoning Abilities of Large Language Models: In-Depth Analysis on the Abstraction and Reasoning Corpus"
+title: "O2ARC 3.0: A Platform for Solving and Creating ARC Tasks"
 collection: publications
 category: papers
 permalink: /O2ARC_IJCAI2024_Demo
-date: 2024-08-17
-venue: 'IJCAI 2024'
-paperurl: 'files/Pedestrian_Orientation_Estimation_based_on_Super_Resolution_of_LiDAR_Data.pdf'
-link: 'https://arxiv.org/abs/2403.11793'
-authors: 'Seungpil Lee, Woochang Sim, Donghyeon Shin, Wongyu Seo, Jiwon Park, <em>Seokki Lee</em>, Sanha Hwang, Sejin Kim, and Sundong Kim' 
-citation: 'Seungpil Lee, Woochang Sim, Donghyeon Shin, Wongyu Seo, Jiwon Park, Seokki Lee, Sanha Hwang, Sejin Kim, and Sundong Kim, (2024). &quot;Pedestrian Orientation Estimation based on Super-Resolution of LiDAR Data.&quot; <i>IEEE 2023 ICCE</i>.'
-thumbnail: 'files/Pedestrian_Orientation_Estimation_based_on_Super_Resolution_of_LiDAR_Data.png'
+date: 2024-08-15
+venue: 'IJCAI 2024 Demo'
+paperurl: 'files/O2ARC 3.0- A Platform for Solving and Creating ARC Tasks.pdf'
+link: 'https://www.ijcai.org/proceedings/2024/1034'
+authors: 'Suyeon Shim, Dohyun Ko, Hosung Lee, <em>Seokki Lee</em>, Doyoon Song, Sanha Hwang, Sejin Kim, and Sundong Kim'
+citation: 'Suyeon Shim, Dohyun Ko, Hosung Lee, Seokki Lee, Doyoon Song, Sanha Hwang, Sejin Kim, and Sundong Kim, (2024). &quot;O2ARC 3.0: A Platform for Solving and Creating ARC Tasks.&quot; <i>IJCAI 2024</i>.'
+thumbnail: 'files/thumbnail_O2ARC-v3.png'
 ---
 
 ![Illustration of ARC](/images/500x300.png){: .align-right width="200px"}
