@@ -12,7 +12,7 @@ redirect_from:
 If you would like to get in touch with me, you can reach me through the following email addresses:
 
 
-- **Work Email (Preferred):** &nbsp;&nbsp; <span style="color:darkblue">sklee1103@gist.ac.kr</span>
+- **Work Email (Preferred):** &nbsp; <span style="color:darkblue">sklee1103@gist.ac.kr</span>
 
 - **Personal Email:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:darkblue">albertlee1103@gmail.com</span>
 
