@@ -33,9 +33,9 @@
         <a href="{{ base_path }}{{ post.url }}" rel="paperurl">{{ title }}</a>
       {% endif %}
     </h2>
-    
-    {% if post.thumbnail   %}
-      <img src="{{ base_path }}{{ post.thumbnail }}" alt="thumbnail" style="width: 200px; height: auto; float: right;">
+
+    {% if post.thumbnail %}
+      <img src="{{ post.thumbnail }}" alt="thumbnail" style="width: 200px; height: auto; float: right;">
     {% endif %}
 
     {% if post.read_time %}
