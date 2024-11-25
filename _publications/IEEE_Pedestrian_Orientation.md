@@ -11,6 +11,3 @@ authors: '<u>Seokki Lee</u>, Yanlei Gu, Igor Goncharenko, Shunske Kamijo'
 citation: 'Seokki Lee, Yanlei Gu, Igor Goncharenko, Shunske Kamijo, (2024). &quot;Pedestrian Orientation Estimation based on Super-Resolution of LiDAR Data.&quot; <i>IEEE 2023 ICCE</i>.'
 thumbnail: '/files/thumbnail_Pedestrian.png'
 ---
-<!-- 
-![Illustration of ARC](/images/500x300.png){: .align-right width="200px"}
-TIST 2024: Large Language Model for Abstraction and Reasoning -->

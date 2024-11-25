@@ -11,6 +11,3 @@ authors: 'Donghyeon Shin, Sanha Hwang, <u>Seokki Lee</u>, Yunho Kim, and Sundong
 citation: 'Donghyeon Shin, Sanha Hwang, Seokki Lee, Yunho Kim, and Sundong Kim, (2023). &quot;MC-LARC: Multi-Agent Abductive Reasoning for Logical Reasoning.&quot; <i>Korea Software Congress 2023</i>.'
 thumbnail: '/files/thumbnail_MC-LARC.png'
 ---
-<!-- 
-![Illustration of ARC](/images/500x300.png){: .align-right width="200px"}
-MC-LARC: Multi-Agent Abductive Reasoning for Logical Reasoning -->
