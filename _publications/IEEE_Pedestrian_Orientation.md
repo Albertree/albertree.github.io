@@ -4,7 +4,7 @@ collection: publications
 category: papers
 permalink: /IEEE_Pedestrian_Orientation
 date: 2023-02-17
-venue: 'IEEE ICCE'
+venue: 'IEEE-ICCE'
 paperurl: 'files/Pedestrian_Orientation_Estimation_based_on_Super_Resolution_of_LiDAR_Data.pdf'
 link: 'https://ieeexplore.ieee.org/abstract/document/10043577'
 authors: '<u>Seokki Lee</u>, Yanlei Gu, Igor Goncharenko, Shunske Kamijo'
