@@ -5,9 +5,9 @@ category: papers
 permalink: /MC-LARC_KSC2023
 date: 2023-12-15
 venue: 'Korea Software Congress'
-paperurl: '/files/MC-LARC Benchmark to Measure LLM Reasoning Capability.pdf'
 link: 'https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705112'
 authors: 'Donghyeon Shin, Sanha Hwang, <u>Seokki Lee</u>, Yunho Kim, and Sundong Kim' 
+paperurl: '/files/MC-LARC Benchmark to Measure LLM Reasoning Capability.pdf'
 citation: '/files/bib_MC-LARC.bib'
 thumbnail: '/files/thumbnail_MC-LARC.png'
 ---
