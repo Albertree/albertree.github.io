@@ -9,5 +9,5 @@ paperurl: 'https://ceur-ws.org/Vol-3819/paper1.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-![Illustration of ARC](/images/500x300.png){: .align-right width="300px"}
+![Illustration of ARC](/images/500x300.png){: .align-right width="200px"}
 Abductive Symbolic Solver for Abstraction and Reasoning Corpus
