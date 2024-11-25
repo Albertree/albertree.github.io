@@ -56,8 +56,8 @@
       <p>Authors: {{ post.authors }}</p>
     {% endif %}
 
-    {% if post.citation and post.link %}
-      <a href="{{ post.link }}" class="button" download>HTML</a>
+    {% if post.citation and post.paperurl %}
+      <a href="{{ post.paperurl }}" class="button" download>HTML</a>
       <a href="{{ post.citation }}" class="button" download>BIB</a>
     {% endif %}
 

@@ -7,7 +7,7 @@ date: 2023-12-15
 venue: 'Korea Software Congress'
 paperurl: 'files/MC-LARC Benchmark to Measure LLM Reasoning Capability.pdf'
 link: 'https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705112'
-authors: 'Donghyeon Shin, Sanha Hwang, <em>Seokki Lee</em>, Yunho Kim, and Sundong Kim' 
+authors: 'Donghyeon Shin, Sanha Hwang, <u>Seokki Lee</u>, Yunho Kim, and Sundong Kim' 
 citation: 'Donghyeon Shin, Sanha Hwang, Seokki Lee, Yunho Kim, and Sundong Kim, (2023). &quot;MC-LARC: Multi-Agent Abductive Reasoning for Logical Reasoning.&quot; <i>Korea Software Congress 2023</i>.'
 thumbnail: 'files/thumbnail_MC-LARC.png'
 ---
