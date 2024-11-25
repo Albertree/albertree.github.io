@@ -16,6 +16,6 @@ If you would like to get in touch with me, you can reach me through the followin
 
 - **Personal Email:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:darkblue">albertlee1103@gmail.com</span>
 
-- **Secondary Email:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:darkblue">sklee1103@naver.com</span>
+- **Secondary Email:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:darkblue">sklee1103@naver.com</span>
 
 Feel free to contact me for any inquiries or support.
