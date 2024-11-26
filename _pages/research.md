@@ -36,11 +36,12 @@ ARC is a task that requires System-2 thinking. By setting a short-term goal to s
 
 <h1>Research Motivation</h1>
 
-To achieve the goal of System-2 thinking by solving ARC, I first pondered on how human beings solve ARC tasks. Not only in shallow and intuitive level, but also in deep and logical level by repeatedly asking "WHY" questions to my solution. The following paragraph became the motivation of my research direction and the background of [Abductive Symbolic Solver on Abstraction and Reasoning Corpus](https://ceur-ws.org/Vol-3819/paper1.pdf).
+To achieve the goal of System-2 thinking by solving ARC, I first pondered on how human beings solve ARC tasks. Not only in shallow and intuitive level, but also in deep and logical level by repeatedly asking "WHY" questions to my solution. Eventually, the problem solving process has divided into stages and it became the motivation of my research direction and the background of [Abductive Symbolic Solver on Abstraction and Reasoning Corpus](https://ceur-ws.org/Vol-3819/paper1.pdf).
 
 <h2>Steps of Human Solving ARC</h2>
 
-I defined 6 steps of human solving ARC tasks. 
+I defined 6 steps of human solving ARC tasks.
+
 1. Observation
 2. Pattern, Change, Difference Recognition
 3. Rule Formulation + Adjustment
@@ -49,13 +50,18 @@ I defined 6 steps of human solving ARC tasks.
 5. Observation (Test)
 6. Application
 
-Human 
+The above process can be described in words as follows: We observe a single grid in the ARC task, then we recognize the patterns. Using the information, we formulate a rule. Then the process repeats until we observe all the grids provided in the example pairs. During the repetition, we may adjust the rule. Finally, we observe the test input and apply the rule appropriately to get the correct answer.
 
+After formulating these steps, I focused on the knowledges we gain during the process and how we synthesize them to conclude the rule. Even though only a few example pairs are provided, humans can formulate the rule that satisfies all the example pairs. This brought me to the idea of abductive reasoning.
 
 
 <h2>Abductive Reasoning</h2>
 
-Abductive reasoning is a key to human-like intelligence.
+Abductive reasoning is a reasoning method to find the most plausible explanation within a limited number of observations. It is similar to inductive reasoning that draws general conclusions from specific instances. However, the difference is that abductive reasoning is under the constraint of limited observations while inductive reasoning is based on a large amount of observations that is enough to generalize a conclusion.
+
+Within tasks that requires object selection, the abductive reasoning process can gain information of object's property and relation which can be used as a constraint to find the most plausible object. Here, the accumulation of the property and relation information is done by so-called symbolic back-propagation.
+
+By preserving the semantic meaning of the knowledges and applying abductive reasoning, this symbolic system appeared to narrow down the conditions for selecting the object in the test input. This architecture achieved a knowledge accumulation within the small number of examples which is the key to solve the task.
 
 
 <br>
@@ -64,6 +70,7 @@ Abductive reasoning is a key to human-like intelligence.
 
 <h1>Research Interests</h1>
 
+Above work is the inital idea of my research, so I may look raw. However, I believe the approach is reasonable and I am dedicated to develop it into a more robust system. The following contents are the research interests that I am currently focusing on and getting ready to be developed.
 
 <details>
 <summary><font size="+2">Human-like Perception</font></summary>
