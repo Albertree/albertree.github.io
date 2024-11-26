@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<br>
 <details>
 <summary><b><font size="+1">What is ARC?</font></b></summary>
 <div markdown="1">
@@ -19,9 +18,6 @@ redirect_from:
 </div>
 </details>
 
-
-<br>
-<h1>Research Interests</h1>
 <br>
 <details>
 <summary><b><font size="+0">Human-like Perception</font></b></summary>
