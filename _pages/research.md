@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<br>
+
 <details>
 <summary><b><font size="+1">What is ARC?</font></b></summary>
 <div markdown="1">
@@ -20,6 +20,8 @@ redirect_from:
 </details>
 
 <br>
+<h1>Research Interests</h1>
+
 <details>
 <summary><b><font size="+0">Human-like Perception</font></b></summary>
 <div markdown="1">
@@ -30,7 +32,6 @@ Human-like perception is a key to human-like intelligence.
 </details>
 
 <br>
-<h1>Research Interests</h1>
 <details>
 <summary><b><font size="+0">Layered Knowledge Representation</font></b></summary>
 <div markdown="1">
@@ -40,7 +41,7 @@ Layered knowledge representation is a key to human-like intelligence.
 </div>
 </details>
 
-
+<br>
 <details>
 <summary><b><font size="+0">Human-like Decision Making</font></b></summary>
 <div markdown="1">
