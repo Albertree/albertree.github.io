@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Interests"
+title: "About My Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<br>
 <details>
 <summary><b><font size="+1">What is ARC?</font></b></summary>
 <div markdown="1">
@@ -28,7 +29,8 @@ Human-like perception is a key to human-like intelligence.
 </div>
 </details>
 
-
+<br>
+<h1>Research Interests</h1>
 <details>
 <summary><b><font size="+0">Layered Knowledge Representation</font></b></summary>
 <div markdown="1">
