@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <details>
-<summary><h2>What is ARC?</h2></summary>
+<summary><b><u><font size="+2">What is ARC?</font></u></b></summary>
 <div markdown="1">
 
 [Abstraction and Reasoning Corpus (ARC)](https://arxiv.org/abs/1911.01547) is a benchmark dataset invented by François Chollet, to test the intelligence of artificial systems. 
