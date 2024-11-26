@@ -73,7 +73,7 @@ By preserving the semantic meaning of the knowledges and applying abductive reas
 Above work is the inital idea of my research, so it may look raw. However, I believe the approach is reasonable and I am dedicated to develop it into a more robust system. The following contents are the research interests that I am currently focusing on and getting ready to be developed.
 
 <details>
-<summary><font size="+1">Human Perception and Cognition</font></summary>
+<summary><font size="+1"><b>Human Perception and Cognition</b></font></summary>
 <div markdown="1">
 
 Human-like perception is a key to human-like intelligence. 
@@ -83,7 +83,7 @@ Human-like perception is a key to human-like intelligence.
 
 <br>
 <details>
-<summary><font size="+1">Layered Knowledge Representation</font></summary>
+<summary><font size="+1"><b>Layered Knowledge Representation</b></font></summary>
 <div markdown="1">
 
 Layered knowledge representation is a key to human-like intelligence. 
@@ -93,7 +93,7 @@ Layered knowledge representation is a key to human-like intelligence.
 
 <br>
 <details>
-<summary><font size="+1">Human-like Planning and Decision-Making</font></summary>
+<summary><font size="+1"><b>Human-like Planning and Decision-Making</b></font></summary>
 <div markdown="1">
 
 Human-like decision making is a crucial aspect of intelligence. 
@@ -105,7 +105,7 @@ Objective of decision making is to select the most desirable option from multipl
 
 <br>
 <details>
-<summary><font size="+1">Program Generalization</font></summary>
+<summary><font size="+1"><b>Program Generalization</b></font></summary>
 <div markdown="1">
 
 Generalization of a specific program 
