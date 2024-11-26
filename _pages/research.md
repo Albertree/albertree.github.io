@@ -70,10 +70,10 @@ By preserving the semantic meaning of the knowledges and applying abductive reas
 
 <h1>Research Interests</h1>
 
-Above work is the inital idea of my research, so I may look raw. However, I believe the approach is reasonable and I am dedicated to develop it into a more robust system. The following contents are the research interests that I am currently focusing on and getting ready to be developed.
+Above work is the inital idea of my research, so it may look raw. However, I believe the approach is reasonable and I am dedicated to develop it into a more robust system. The following contents are the research interests that I am currently focusing on and getting ready to be developed.
 
 <details>
-<summary><font size="+2">Human-like Perception</font></summary>
+<summary><font size="+1">Human Perception and Cognition</font></summary>
 <div markdown="1">
 
 Human-like perception is a key to human-like intelligence. 
@@ -83,7 +83,7 @@ Human-like perception is a key to human-like intelligence.
 
 <br>
 <details>
-<summary><font size="+2">Layered Knowledge Representation</font></summary>
+<summary><font size="+1">Layered Knowledge Representation</font></summary>
 <div markdown="1">
 
 Layered knowledge representation is a key to human-like intelligence. 
@@ -93,11 +93,21 @@ Layered knowledge representation is a key to human-like intelligence.
 
 <br>
 <details>
-<summary><font size="+2">Human-like Decision Making</font></summary>
+<summary><font size="+1">Human-like Planning and Decision-Making</font></summary>
 <div markdown="1">
 
 Human-like decision making is a crucial aspect of intelligence. 
+Objective of decision making is to select the most desirable option from multiple options.
 
 </div>
 </details>
 
+
+<br>
+<details>
+<summary><font size="+1">Program Generalization</font></summary>
+<div markdown="1">
+
+Generalization of a specific program 
+</div>
+</details>
