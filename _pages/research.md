@@ -73,20 +73,20 @@ By preserving the semantic meaning of the knowledges and applying abductive reas
 Above work is the inital idea of my research, so it may look raw. However, I believe the approach is reasonable and I am dedicated to develop it into a more robust system. The following contents are the research interests that I am currently focusing on and getting ready to be developed.
 
 <details>
-<summary><font size="+1"><b>Human Perception and Cognition</b></font></summary>
+<summary><font size="+1"><b>Human Perception and Cognitive Science</b></font></summary>
 <div markdown="1">
 
-Human-like perception is a key to human-like intelligence. 
+From the raw data, deciding what to focus and extracting additional information is done by human and we do not even notice it. Currently, the material for the ARC solution is defined by researchers with Domain Specific Languages (DSLs) that is considered specific and not flexible. Depending on how we define the DSL, the coverage of the solution varies. Therefore, I expect preparing the fundamental sources for the DSL starting from the human perception and cognition would be a reasonable direction for system-2 reasoning.
 
 </div>
 </details>
 
 <br>
 <details>
-<summary><font size="+1"><b>Layered Knowledge Representation</b></font></summary>
+<summary><font size="+1"><b>Knowledge Representation</b></font></summary>
 <div markdown="1">
 
-Layered knowledge representation is a key to human-like intelligence. 
+Until now, in the field of artificial intelligence, information is embedded in the massive size vector and the values get altered and mixed when computation is done. During this process, I think the information is not preserved. Human really likes to classify things and this is why I am approaching with symbolic ways. Not only that, I think each semantic symbols forms a structure and this structure is what we call knowledge. Thus, I am expective that the representation of knowledge may be the key to conquer the system-2 reasoning.
 
 </div>
 </details>
@@ -96,8 +96,7 @@ Layered knowledge representation is a key to human-like intelligence.
 <summary><font size="+1"><b>Human-like Planning and Decision-Making</b></font></summary>
 <div markdown="1">
 
-Human-like decision making is a crucial aspect of intelligence. 
-Objective of decision making is to select the most desirable option from multiple options.
+In solving ARC tasks, we need to make a series of decisions. I was thinking about how humans make decisions. Saying conclusion first, I think humans make decisions based on what they have observed. Suppose, a grid size of 10x10 has changed to 3x3 in the pair. Based on the observations of two different sized grids, humans decide to apply DSL that changes/defines the grid size. Thinking more with examples, it would be too specific however, it is possible to be generalized. I am expecting to find the relationship between the observation and the decision to establish a human-like decision making module.
 
 </div>
 </details>
@@ -105,9 +104,10 @@ Objective of decision making is to select the most desirable option from multipl
 
 <br>
 <details>
-<summary><font size="+1"><b>Program Generalization</b></font></summary>
+<summary><font size="+1"><b>Program Synthesis</b></font></summary>
 <div markdown="1">
 
-Generalization of a specific program 
+Solution of ARC tasks is a program. Although most of the research bases on the condition of sequential program. However, I think the human thinking process is not always sequential, rather it is more like a tree/graph sturcutre. Creating a non-sequential program synthesizer would be a reasonable direction to solve ARC tasks.
+
 </div>
 </details>
