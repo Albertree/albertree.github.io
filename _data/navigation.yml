@@ -12,7 +12,7 @@ main: # _pages/about.md
     url: /publications/ # _publications/xxxxxx.md in _pages/publications.html
 
   - title: "CV"
-    url: /files/Seokki_Lee_CV.pdf?v=2 # /files/Seokki_Lee_CV.pdf
+    url: /files/Seokki_Lee_CV.pdf # /files/Seokki_Lee_CV.pdf
 
   - title: "Contact"
     url: /contact/ # _pages/contact.md
